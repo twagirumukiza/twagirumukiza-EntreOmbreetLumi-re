@@ -79,12 +79,12 @@ button{font:inherit}
   letter-spacing:.20em;
   text-transform:uppercase;
 }
-.intro-title {
-  font-size: clamp(3rem, 6vw, 6rem); /* même que David vs Goliath */
-  line-height: 0.92;
-  letter-spacing: -0.05em;
-  font-weight: 500;
-  margin: 0 0 20px;
+.intro-title{
+  margin:28px 0 0;
+  font-size:clamp(4.3rem,10vw,7.8rem);
+  line-height:.92;
+  font-weight:900;
+  letter-spacing:-.05em;
 }
 .intro-text{
   margin:28px 0 0;
